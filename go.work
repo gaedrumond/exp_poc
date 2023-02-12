@@ -1,0 +1,10 @@
+go 1.19
+
+use (
+	./collectors
+	./commandline
+	./metadata/
+	./metrics
+	./user
+	./webserver
+)
